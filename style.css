@@ -1,0 +1,28 @@
+.p{
+    text-align: justify;
+}
+h1{
+    font-size: 50px;
+    color: blue;
+}
+body{
+    background-image: url("img/los.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+h3{
+    font-size: 50px;
+    color: rgb(195, 0, 255);
+}
+
+h4{
+    font-size: 50px;
+    color: rgb(255, 8, 0);
+}
+
+h5{
+    font-size: 50px;
+    color: rgb(255, 230, 0);
+}
